@@ -18,3 +18,5 @@ Où vous voyez-vous dans 5 ans?
 
 ### Projets
 Expliquez un ou des projets que vous aimeriez faire. 
+
+### note: metre source image pour powerpoint
